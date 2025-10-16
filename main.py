@@ -6,3 +6,5 @@ if a>b:
 else:
     print("b is greater")
 
+#Adding a new print statement
+print("First number is: ", a)
